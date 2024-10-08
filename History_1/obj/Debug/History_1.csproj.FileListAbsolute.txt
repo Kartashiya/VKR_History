@@ -1,0 +1,123 @@
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\History_1.exe.config
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\History_1.exe
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\History_1.pdb
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.csproj.AssemblyReference.cache
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.Properties.Resources.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.csproj.GenerateResource.cache
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.csproj.CoreCompileInputs.cache
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.exe
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.pdb
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.AboutBox1.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.MainForm.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.Dictionary.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\bin\Debug\History_1.exe.config
+C:\Users\Кар\Desktop\учеба\History_1\History_1\bin\Debug\History_1.exe
+C:\Users\Кар\Desktop\учеба\History_1\History_1\bin\Debug\History_1.pdb
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.csproj.AssemblyReference.cache
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.AboutBox1.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.Dictionary.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.MainForm.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.Properties.Resources.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.csproj.GenerateResource.cache
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.csproj.CoreCompileInputs.cache
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.exe
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.pdb
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.HistoryPers.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.HistoryPersInfo.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.FullScreenForm.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.ContourMaps.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.GalleryForm.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.ContourMaps.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.FullScreenForm.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.GalleryForm.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.HistoryPers.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.HistoryPersInfo.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.HistoryPeriod.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.HistoryPeriod.resources
+C:\Users\Кар\Desktop\учеба\History_1\History_1\obj\Debug\History_1.HistoryPeriodInfo.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.HistoryPeriodInfo.resources
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\Google.Protobuf.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Compression.LZ4.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Hash.xxHash.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\MySql.Data.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Buffers.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.IO.Pipelines.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Memory.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Numerics.Vectors.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\ZstdSharp.dll
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\Google.Protobuf.pdb
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\Google.Protobuf.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Compression.LZ4.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\K4os.Hash.xxHash.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\MySql.Data.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Buffers.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.IO.Pipelines.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Memory.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Numerics.Vectors.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.csproj.CopyComplete
+D:\yandex\YandexDisk-EmiliRed\4 курс\ВКР\History_1\History_1\obj\Debug\History_1.TestForm.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\History_1.exe.config
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\History_1.exe
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\History_1.pdb
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\Google.Protobuf.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\MySql.Data.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Buffers.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Memory.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\ZstdSharp.dll
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\Google.Protobuf.pdb
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\Google.Protobuf.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\MySql.Data.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Buffers.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Memory.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.AboutBox1.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.ContourMaps.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.Dictionary.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.FullScreenForm.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.GalleryForm.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.HistoryPeriod.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.HistoryPeriodInfo.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.HistoryPers.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.HistoryPersInfo.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.MainForm.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.Properties.Resources.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.TestForm.resources
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.csproj.GenerateResource.cache
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.csproj.CopyComplete
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.exe
+C:\Users\emili\OneDrive\Рабочий стол\ВКР для гита\для архива\History_1\History_1\obj\Debug\History_1.pdb
